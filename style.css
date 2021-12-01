@@ -1,0 +1,22 @@
+.links{
+    display: inline;
+    padding-right: 25px;
+    padding-left: 33px;
+    font-family: fantasy;
+    font-size: 20px
+}   
+body{
+    text-align: center;
+}  
+#school{
+    background-color: lime;
+}
+#campus{
+    background-color: blue;
+}
+#achievements{
+    background-color:aqua;
+}
+html{
+    scroll-behavior: smooth;
+  }
